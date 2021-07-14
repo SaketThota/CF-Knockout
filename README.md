@@ -2,7 +2,7 @@
     <h1>CFKnockout</h1>
 </div>
 
-<div style="text-align:center"><img src="client\public\logo-removebg-preview.png" />
+<div style="text-align:center"><img src="client\images\logo.png" />
 
 ![stars](https://img.shields.io/github/stars/SaketThota/CF-Knockout)
 ![version](https://img.shields.io/badge/version-0.0.1-blue)
