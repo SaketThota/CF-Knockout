@@ -52,10 +52,13 @@
 
     2. Go to Settings tab 
     <img src="client\images\settings.png" />
+
     3. Go to Social tab
     <img src="client\images\social.png" /> 
+
     4. Paste that string in First Name field. 
     <img src="client\images\firstname.png" />
+    
     5. Enter your handle and click on validate button.
     <img src="client\images\validate.png" />
     
