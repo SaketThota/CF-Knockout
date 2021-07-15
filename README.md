@@ -82,7 +82,7 @@
 <h3>For Room Creater</h3>
 <img src="client\images\roomAdmin.png" />
 <h3>For Others</h3>
-<img src="client\images\roomOther.png" />
+<img src="client\images\roomOther.PNG" />
 
 ---
 
