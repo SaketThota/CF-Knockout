@@ -45,24 +45,24 @@
 
 ### **Step 2 - The Dashboard**
 
-* Validate your [Codeforces](https://codeforces.com/) handle:
-    1. First Copy the string. 
+* **Validate your [Codeforces](https://codeforces.com/) handle** :
+    * First Copy the string. 
     <img src="client\images\string.png" />
     Login to CodeForces
 
-    2. Go to Settings tab 
+    * Go to Settings tab 
     <img src="client\images\settings.png" />
 
-    3. Go to Social tab
+    * Go to Social tab
     <img src="client\images\social.png" /> 
 
-    4. Paste that string in First Name field. 
+    * Paste that string in First Name field. 
     <img src="client\images\firstname.png" />
 
-    5. Enter your handle and click on validate button.
+    * Enter your handle and click on validate button.
     <img src="client\images\validate.png" />
     
-* Create or Join:
+* **Create or Join** :
     * Create a room by selecting the room size and then click on **Create Room** button.
 
     OR
@@ -79,9 +79,10 @@
 * Next Click on **Generate Problems**. This will take a few seconds.
 * Click **Start Contest** *once it is enabled* to begin the contest.
 
-<h3>For Room Creater</h3>
+* <h3>For Room Creater</h3>
 <img src="client\images\roomAdmin.png" />
-<h3>For Others</h3>
+    
+* <h3>For Others</h3>
 <img src="client\images\roomOther.PNG" />
 
 ---
