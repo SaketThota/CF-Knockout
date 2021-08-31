@@ -6,7 +6,7 @@
 
 ![stars](https://img.shields.io/github/stars/SaketThota/CF-Knockout)
 ![version](https://img.shields.io/badge/version-0.0.1-blue)
-[![license: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/SaketThota/CF-Knockout/blob/main/LICENSE.md)
+[![license: MIT](https://github.com/SaketThota/CF-Knockout/blob/main/LICENSE)
 ![issues](https://img.shields.io/github/issues/SaketThota/CF-Knockout)
 </div>
 
